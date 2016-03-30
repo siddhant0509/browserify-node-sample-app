@@ -8,7 +8,7 @@ const render = function(users){
 
 
 module.exports = {
-	render;
+	render
 }
 
 
